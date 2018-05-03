@@ -1,7 +1,7 @@
 #include "Bonus.h"
 #include "glut.h"
 //cambios
-
+//hola
 Bonus::Bonus(void)
 {
 	radio=1.0f;
